@@ -1,0 +1,1 @@
+scikit-learn>=1.4\npandas>=2.1\nmatplotlib>=3.8\npytest>=8\n
